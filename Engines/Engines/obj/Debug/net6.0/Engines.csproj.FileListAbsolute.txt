@@ -1,0 +1,53 @@
+D:\Engines\Engines\obj\Debug\net6.0\Engines.csproj.AssemblyReference.cache
+D:\Engines\Engines\obj\Debug\net6.0\Engines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfoInputs.cache
+D:\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfo.cs
+D:\Engines\Engines\obj\Debug\net6.0\Engines.csproj.CoreCompileInputs.cache
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.deps.json
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.dll
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.pdb
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.csproj.AssemblyReference.cache
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfoInputs.cache
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfo.cs
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.csproj.CoreCompileInputs.cache
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.dll
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\refint\Engines.dll
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.pdb
+C:\Users\zakcs\OneDrive\Документы\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\ref\Engines.dll
+E:\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.deps.json
+E:\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.dll
+E:\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.pdb
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfo.cs
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.dll
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\refint\Engines.dll
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.pdb
+E:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\ref\Engines.dll
+D:\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.deps.json
+D:\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.dll
+D:\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.pdb
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfo.cs
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.dll
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\refint\Engines.dll
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.pdb
+D:\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\ref\Engines.dll
+F:\докс\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.deps.json
+F:\докс\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.dll
+F:\докс\Visual Studio Projects\Engines\Engines\bin\Debug\net6.0\Engines.pdb
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.csproj.AssemblyReference.cache
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.GeneratedMSBuildEditorConfig.editorconfig
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfoInputs.cache
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.AssemblyInfo.cs
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.csproj.CoreCompileInputs.cache
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.dll
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\refint\Engines.dll
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\Engines.pdb
+F:\докс\Visual Studio Projects\Engines\Engines\obj\Debug\net6.0\ref\Engines.dll
